@@ -66,11 +66,9 @@ MODEL GRAPH
 DESIGN:
 
 Inverting amplifier:
+<img width="1600" height="1024" alt="image" src="https://github.com/user-attachments/assets/ded38caa-5dea-451a-8e8f-f0b2f8782c17" />
+<img width="1600" height="470" alt="image" src="https://github.com/user-attachments/assets/26c46213-c739-4b8e-98f2-e866a27b450d" />
 
-<img width="315" height="117" alt="image" src="https://github.com/user-attachments/assets/c83a933a-99bb-4696-8f66-2311bafa9d29" />
-
-<img width="537" height="307" alt="image" src="https://github.com/user-attachments/assets/d0584550-a25e-4d4e-bb10-9f8c1e0fde9f" />
-<img width="496" height="528" alt="image" src="https://github.com/user-attachments/assets/e0f5586f-96af-45ef-82e1-271790066032" />
 
 
 PROCEDURE:
@@ -117,6 +115,9 @@ ACL = 1 + RF/R1
 ## MODEL GRAPH
 <img width="321" height="178" alt="image" src="https://github.com/user-attachments/assets/c4145a7e-f67a-4bcd-84d7-0226d9b00e54" />
 
+#DESIGN
+
+
 
 
 PROCEDURE:
@@ -162,10 +163,8 @@ MODEL GRAPH1:
 
 
 ## DESIGN
+<img width="1376" height="1600" alt="image" src="https://github.com/user-attachments/assets/04a1f406-c5ad-414a-8a01-ede3dddd5c42" />
 
-<img width="491" height="161" alt="image" src="https://github.com/user-attachments/assets/ad413d9d-db43-4a9e-9ac6-7d168b921010" />
-<img width="537" height="375" alt="image" src="https://github.com/user-attachments/assets/938d9a32-6726-4b5c-8ac2-77b827caf219" />
-<img width="577" height="508" alt="image" src="https://github.com/user-attachments/assets/30ff3250-8db9-4f88-b425-3409b860f1f6" />
 
 ### **Differential Amplifier**
 
