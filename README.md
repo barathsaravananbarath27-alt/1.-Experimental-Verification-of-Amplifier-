@@ -132,10 +132,8 @@ PROCEDURE:
 
 ## TABULATION
 
-<img width="416" height="251" alt="image" src="https://github.com/user-attachments/assets/c8af36e2-fcf9-4cd5-8067-1e073fc96a77" />
+<img width="1198" height="1600" alt="image" src="https://github.com/user-attachments/assets/5482235a-2e0f-48b2-bc7e-deae5564f480" />
 
-<img width="416" height="244" alt="image" src="https://github.com/user-attachments/assets/27aa0b76-5b81-47ea-a8bd-a995933a5398" />
-<img width="471" height="484" alt="image" src="https://github.com/user-attachments/assets/838bd50e-86d8-4562-82fb-485805a990f4" />
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2025-12-05 at 15 44 37_112015d3](https://github.com/user-attachments/assets/0ee6e437-26fa-4c65-8fa2-f1cd05b3078b)
@@ -192,7 +190,8 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 
 ## TABULATION (Differential Amplifier)
 
-<img width="536" height="296" alt="image" src="https://github.com/user-attachments/assets/8b69599b-0d8f-403c-96be-355fd867f059" />
+<img width="1600" height="1166" alt="image" src="https://github.com/user-attachments/assets/5558b2e3-b12b-42f3-8e65-4146d601b27a" />
+
 
 
 
@@ -214,6 +213,7 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
  
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
+<img width="1600" height="1414" alt="image" src="https://github.com/user-attachments/assets/4787410a-93f4-44bf-a89d-94778ddee4ad" />
 
 
 
@@ -230,10 +230,8 @@ PROCEDURE:
 ---
 
 ## TABULATION (Instrumentation Amplifier)
-<img width="539" height="357" alt="image" src="https://github.com/user-attachments/assets/30f67931-5981-4b51-adbd-a659dfe2e05c" />
+![Uploading image.png…]()
 
-
-<img width="493" height="702" alt="image" src="https://github.com/user-attachments/assets/7a4b6587-1fd9-4155-93d9-257fb306bd1e" />
 
 
 ---
