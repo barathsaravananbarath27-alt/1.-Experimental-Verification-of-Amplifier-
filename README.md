@@ -230,13 +230,14 @@ PROCEDURE:
 ---
 
 ## TABULATION (Instrumentation Amplifier)
-![Uploading image.png…]()
+<img width="1600" height="1414" alt="image" src="https://github.com/user-attachments/assets/689cb146-7216-434a-b57a-8175d4a4ad64" />
 
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-<img width="592" height="545" alt="image" src="https://github.com/user-attachments/assets/f18bd2ac-d66f-4352-a13d-2db6ec4b4950" />
+<img width="1185" height="1599" alt="image" src="https://github.com/user-attachments/assets/b346a1f7-bd37-4434-8211-512ee9e338dd" />
+
 
 
 
